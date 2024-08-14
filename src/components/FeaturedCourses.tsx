@@ -19,7 +19,7 @@ function FeaturedCourses() {
 
 
   return (
-    <div className="py-12 h-[40rem]">
+    <div className="py-12 h-[80rem]">
         <div>
             <div className="text-center">
                 <h2 className="text-base text-teal-600 font-semibold tracking-wide uppercase">FEATURED COURSES</h2>
